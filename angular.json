@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "NGXS-fireship"
+    }
+  },
+  "defaultProject": "NGXS-fireship",
+  "cli": {
+    "analytics": "3205b281-3b63-4d7b-951c-b73e07137f12"
+  }
 }
